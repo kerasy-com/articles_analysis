@@ -1,11 +1,14 @@
 # articles_analysis
+
 ### This repository deals with various techniques regarding the 'Text-Mining' with Korean/English articles.
 
 ## Introduction
 The Code was designed by Youngmin Ahn of SKKU
+
 Task Period: 2020-01-01 ~ 2020-07-01
 
 This code deals with English & Korean article files,
+
 the raw data belongs to Andy Kim of SKKU 
 
 
