@@ -33,3 +33,11 @@ You can measure your facial masculinity in the following website: www.fwhrmeasur
 
 
 ## Purpose of the code
+The code was made to...
+1. Extract articles from xml files and load into csv in order to cleanse
+
+2. Cleanse English/Korean articles to make use for regression analysis
+
+3. Vectorize the article and connect with stock return using merge
+
+4. Regression Analysis based on return ~ [each word]
