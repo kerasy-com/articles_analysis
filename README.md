@@ -41,3 +41,11 @@ The code was made to...
 3. Vectorize the article and connect with stock return using merge
 
 4. Regression Analysis based on return ~ [each word]
+
+
+## Ipynb Error
+If .ipynb file could not be loaded, check
+
+https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/issues/11
+
+this link for solution
